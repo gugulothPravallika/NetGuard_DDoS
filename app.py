@@ -25,7 +25,7 @@ st.markdown("""
     """, unsafe_allow_html=True)
 
 # --- HEADER SECTION ---
-st.title("🛡️ NetGuard AI: Network Intrusion Detection")
+st.title("🛡️ NetGuard AI: DDoS Detection")
 st.write("Real-time threat analysis powered by Deep Learning.")
 
 # --- SIDEBAR FRONTEND ---
