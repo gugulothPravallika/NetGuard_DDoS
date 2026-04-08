@@ -6,7 +6,7 @@ import time
 # --- SET PAGE THEME ---
 st.set_page_config(
     page_title="",
-    page_icon="🛡️",DDoS_Detection
+    page_icon="🛡️"DDoS_Detection"
     layout="wide"
 )
 
