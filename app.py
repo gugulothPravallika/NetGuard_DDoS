@@ -5,8 +5,8 @@ import time
 
 # --- SET PAGE THEME ---
 st.set_page_config(
-    page_title="NetGuard AI Dashboard",
-    page_icon="🛡️",
+    page_title="",
+    page_icon="🛡️",DDoS_Detection
     layout="wide"
 )
 
